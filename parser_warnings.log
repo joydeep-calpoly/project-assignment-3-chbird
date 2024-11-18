@@ -1,0 +1,63 @@
+Nov 17, 2024 9:36:48 PM SimpleJsonParser parseJsonSource
+WARNING: Failed to parse JSON source: Unrecognized token 'project_3': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false')
+ at [Source: (String)"project_3/inputs/simple.txt"; line: 1, column: 10]
+Nov 17, 2024 9:36:49 PM NewsApiJsonParser parseResponse
+INFO: Total valid articles: 20
+Nov 17, 2024 9:38:39 PM SimpleJsonParser parseJsonSource
+INFO: Successfully parsed a valid article.
+Nov 17, 2024 9:38:39 PM NewsApiJsonParser parseResponse
+INFO: Total valid articles: 20
+Nov 17, 2024 10:08:19 PM SimpleJsonParser parseJsonSource
+INFO: Successfully parsed a valid article.
+Nov 17, 2024 10:08:23 PM NewsApiJsonParser parseResponse
+INFO: Total valid articles: 20
+Nov 17, 2024 10:12:03 PM SimpleJsonParser parseJsonSource
+INFO: Successfully parsed a valid article.
+Nov 17, 2024 10:12:06 PM NewsApiJsonParser parseResponse
+INFO: Total valid articles: 20
+Nov 17, 2024 10:12:34 PM SimpleJsonParser parseJsonSource
+INFO: Successfully parsed a valid article.
+Nov 17, 2024 10:12:38 PM NewsApiJsonParser parseResponse
+INFO: Total valid articles: 20
+Nov 17, 2024 10:13:03 PM SimpleJsonParser parseJsonSource
+INFO: Successfully parsed a valid article.
+Nov 17, 2024 10:13:04 PM NewsApiJsonParser parseResponse
+INFO: Total valid articles: 20
+Nov 17, 2024 10:13:04 PM NewsApiJsonParser parseResponse
+INFO: Total valid articles: 20
+Nov 17, 2024 11:34:57 PM SimpleJsonParser parseJsonSource
+INFO: Successfully parsed a valid article.
+Nov 17, 2024 11:34:58 PM NewsApiJsonParser parseResponse
+INFO: Total valid articles: 20
+Nov 17, 2024 11:34:58 PM NewsApiJsonParser parseResponse
+INFO: Total valid articles: 20
+Nov 17, 2024 11:52:43 PM SimpleJsonParser parseJsonSource
+INFO: Successfully parsed a valid article.
+Nov 17, 2024 11:52:44 PM NewsApiJsonParser parseResponse
+INFO: Total valid articles: 20
+Nov 17, 2024 11:52:44 PM NewsApiJsonParser parseResponse
+INFO: Total valid articles: 20
+Nov 17, 2024 11:56:51 PM SimpleJsonParser parseJsonSource
+INFO: Successfully parsed a valid article.
+Nov 17, 2024 11:56:51 PM NewsApiJsonParser parseResponse
+INFO: Total valid articles: 20
+Nov 17, 2024 11:56:51 PM NewsApiJsonParser parseResponse
+INFO: Total valid articles: 20
+Nov 18, 2024 12:01:12 AM SimpleJsonParser parseJsonSource
+INFO: Successfully parsed a valid article.
+Nov 18, 2024 12:01:16 AM NewsApiJsonParser parseResponse
+INFO: Total valid articles: 20
+Nov 18, 2024 12:01:16 AM NewsApiJsonParser parseResponse
+INFO: Total valid articles: 20
+Nov 18, 2024 12:04:17 AM SimpleJsonParser parseJsonSource
+INFO: Successfully parsed a valid article.
+Nov 18, 2024 12:04:18 AM NewsApiJsonParser parseResponse
+INFO: Total valid articles: 20
+Nov 18, 2024 12:04:18 AM NewsApiJsonParser parseResponse
+INFO: Total valid articles: 20
+Nov 18, 2024 12:09:51 AM SimpleJsonParser parseJsonSource
+INFO: Successfully parsed a valid article.
+Nov 18, 2024 12:09:51 AM NewsApiJsonParser parseResponse
+INFO: Total valid articles: 20
+Nov 18, 2024 12:09:51 AM NewsApiJsonParser parseResponse
+INFO: Total valid articles: 20
