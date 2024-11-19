@@ -61,3 +61,11 @@ Nov 18, 2024 12:09:51 AM NewsApiJsonParser parseResponse
 INFO: Total valid articles: 20
 Nov 18, 2024 12:09:51 AM NewsApiJsonParser parseResponse
 INFO: Total valid articles: 20
+Nov 18, 2024 6:29:48 PM SimpleJsonParser parseJsonSource
+INFO: Successfully parsed a valid article.
+Nov 18, 2024 6:29:49 PM NewsApiJsonParser parseResponse
+WARNING: Skipping invalid article: Description is missing. - Valid fields: Title: AI, North Korea, Trump: What Biden and Xi discussed in their final face-to-face meeting - ABC News; Published At: 2024-11-17T21:32:42Z; URL: https://abcnews.go.com/Politics/ai-north-korea-trump-biden-xi-discussed-final/story?id\\u003d115936991; 
+Nov 18, 2024 6:29:49 PM NewsApiJsonParser parseResponse
+INFO: Total valid articles: 19
+Nov 18, 2024 6:29:49 PM NewsApiJsonParser parseResponse
+INFO: Total valid articles: 20
